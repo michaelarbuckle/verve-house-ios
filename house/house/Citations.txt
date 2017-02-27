@@ -1,0 +1,4 @@
+MSGSwipeTableCell
+
+signal icon from plainicon.com By DulfiJavadMalik
+By DulfiJavadMalik
